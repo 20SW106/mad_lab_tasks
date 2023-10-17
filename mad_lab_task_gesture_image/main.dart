@@ -2,8 +2,6 @@ import 'package:image_picker/image_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-
-
 void main() {
   runApp(const MyApp());
 }
