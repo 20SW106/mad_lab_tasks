@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:navigation_routing/screen_three.dart';
 import 'package:navigation_routing/utilis/routes_name.dart';
 
-
-
 class ScreenTwo extends StatefulWidget {
   dynamic data;
   ScreenTwo({Key? key,
